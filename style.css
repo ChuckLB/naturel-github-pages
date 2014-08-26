@@ -4,7 +4,7 @@ body{
 }
 
 #teaser{
-	background-image: url(../images/MerVigne.jpg);
+	background-image: url(MerVigne.jpg);
 	height: 450px;
 	background-size: cover;
 	padding-top: 50px;
